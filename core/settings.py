@@ -36,7 +36,8 @@ SECRET_KEY = '=5!%)x5sb969tjinw@owstukfubvb_h6f^+(sr)!=kb-w=(8tm'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "http://muramlmodel.azurewebsites.net/"
+    "muramlmodel.azurewebsites.net",
+    "0.0.0.0"
 ]
 
 
