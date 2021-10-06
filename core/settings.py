@@ -33,7 +33,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '=5!%)x5sb969tjinw@owstukfubvb_h6f^+(sr)!=kb-w=(8tm'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [
     "mlmodel4mura.azurewebsites.net",
